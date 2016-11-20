@@ -1,0 +1,12 @@
+{
+  "name": "perftest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^17.0.3"
+  }
+}
